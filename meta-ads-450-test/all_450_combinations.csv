@@ -1,0 +1,451 @@
+﻿Combo,Ad_Name,Hook,Theme,Hook_Score,Body,CTA,Phase,Status,Hook_Text
+1,H01-QUAL_B1_C1_v1,H01,QUAL,9,B1,C1,P2/P3 candidate,Not built,"Kuzhandhai theriyama click pannittaanga, sorry! — unga Meta Ads leads-um idha adikkadi solraangala?"
+2,H01-QUAL_B1_C2_v1,H01,QUAL,9,B1,C2,P2/P3 candidate,Not built,"Kuzhandhai theriyama click pannittaanga, sorry! — unga Meta Ads leads-um idha adikkadi solraangala?"
+3,H01-QUAL_B1_C3_v1,H01,QUAL,9,B1,C3,P2/P3 candidate,Not built,"Kuzhandhai theriyama click pannittaanga, sorry! — unga Meta Ads leads-um idha adikkadi solraangala?"
+4,H01-QUAL_B2_C1_v1,H01,QUAL,9,B2,C1,P2/P3 candidate,Not built,"Kuzhandhai theriyama click pannittaanga, sorry! — unga Meta Ads leads-um idha adikkadi solraangala?"
+5,H01-QUAL_B2_C2_v1,H01,QUAL,9,B2,C2,P2/P3 candidate,Not built,"Kuzhandhai theriyama click pannittaanga, sorry! — unga Meta Ads leads-um idha adikkadi solraangala?"
+6,H01-QUAL_B2_C3_v1,H01,QUAL,9,B2,C3,P2/P3 candidate,Not built,"Kuzhandhai theriyama click pannittaanga, sorry! — unga Meta Ads leads-um idha adikkadi solraangala?"
+7,H01-QUAL_B3_C1_v1,H01,QUAL,9,B3,C1,P2/P3 candidate,Not built,"Kuzhandhai theriyama click pannittaanga, sorry! — unga Meta Ads leads-um idha adikkadi solraangala?"
+8,H01-QUAL_B3_C2_v1,H01,QUAL,9,B3,C2,P1,Not built,"Kuzhandhai theriyama click pannittaanga, sorry! — unga Meta Ads leads-um idha adikkadi solraangala?"
+9,H01-QUAL_B3_C3_v1,H01,QUAL,9,B3,C3,P2/P3 candidate,Not built,"Kuzhandhai theriyama click pannittaanga, sorry! — unga Meta Ads leads-um idha adikkadi solraangala?"
+10,H02-SALES_B1_C1_v1,H02,SALES,9,B1,C1,P2/P3 candidate,Not built,Marketing team 'Nalla leads kudukkurom'… Sales team 'Leads qualified illa'… Idhula yaar solradhu unmai?
+11,H02-SALES_B1_C2_v1,H02,SALES,9,B1,C2,P2/P3 candidate,Not built,Marketing team 'Nalla leads kudukkurom'… Sales team 'Leads qualified illa'… Idhula yaar solradhu unmai?
+12,H02-SALES_B1_C3_v1,H02,SALES,9,B1,C3,P2/P3 candidate,Not built,Marketing team 'Nalla leads kudukkurom'… Sales team 'Leads qualified illa'… Idhula yaar solradhu unmai?
+13,H02-SALES_B2_C1_v1,H02,SALES,9,B2,C1,P2/P3 candidate,Not built,Marketing team 'Nalla leads kudukkurom'… Sales team 'Leads qualified illa'… Idhula yaar solradhu unmai?
+14,H02-SALES_B2_C2_v1,H02,SALES,9,B2,C2,P2/P3 candidate,Not built,Marketing team 'Nalla leads kudukkurom'… Sales team 'Leads qualified illa'… Idhula yaar solradhu unmai?
+15,H02-SALES_B2_C3_v1,H02,SALES,9,B2,C3,P2/P3 candidate,Not built,Marketing team 'Nalla leads kudukkurom'… Sales team 'Leads qualified illa'… Idhula yaar solradhu unmai?
+16,H02-SALES_B3_C1_v1,H02,SALES,9,B3,C1,P2/P3 candidate,Not built,Marketing team 'Nalla leads kudukkurom'… Sales team 'Leads qualified illa'… Idhula yaar solradhu unmai?
+17,H02-SALES_B3_C2_v1,H02,SALES,9,B3,C2,P1,Not built,Marketing team 'Nalla leads kudukkurom'… Sales team 'Leads qualified illa'… Idhula yaar solradhu unmai?
+18,H02-SALES_B3_C3_v1,H02,SALES,9,B3,C3,P2/P3 candidate,Not built,Marketing team 'Nalla leads kudukkurom'… Sales team 'Leads qualified illa'… Idhula yaar solradhu unmai?
+19,H03-CPL_B1_C1_v1,H03,CPL,7,B1,C1,P2/P3 candidate,Not built,Yesterday ₹100 CPL… today ₹400 CPL! Enna nadakkudhune puriyalaya?
+20,H03-CPL_B1_C2_v1,H03,CPL,7,B1,C2,P2/P3 candidate,Not built,Yesterday ₹100 CPL… today ₹400 CPL! Enna nadakkudhune puriyalaya?
+21,H03-CPL_B1_C3_v1,H03,CPL,7,B1,C3,P2/P3 candidate,Not built,Yesterday ₹100 CPL… today ₹400 CPL! Enna nadakkudhune puriyalaya?
+22,H03-CPL_B2_C1_v1,H03,CPL,7,B2,C1,P2/P3 candidate,Not built,Yesterday ₹100 CPL… today ₹400 CPL! Enna nadakkudhune puriyalaya?
+23,H03-CPL_B2_C2_v1,H03,CPL,7,B2,C2,P2/P3 candidate,Not built,Yesterday ₹100 CPL… today ₹400 CPL! Enna nadakkudhune puriyalaya?
+24,H03-CPL_B2_C3_v1,H03,CPL,7,B2,C3,P2/P3 candidate,Not built,Yesterday ₹100 CPL… today ₹400 CPL! Enna nadakkudhune puriyalaya?
+25,H03-CPL_B3_C1_v1,H03,CPL,7,B3,C1,P2/P3 candidate,Not built,Yesterday ₹100 CPL… today ₹400 CPL! Enna nadakkudhune puriyalaya?
+26,H03-CPL_B3_C2_v1,H03,CPL,7,B3,C2,P1,Not built,Yesterday ₹100 CPL… today ₹400 CPL! Enna nadakkudhune puriyalaya?
+27,H03-CPL_B3_C3_v1,H03,CPL,7,B3,C3,P2/P3 candidate,Not built,Yesterday ₹100 CPL… today ₹400 CPL! Enna nadakkudhune puriyalaya?
+28,H04-QUAL_B1_C1_v1,H04,QUAL,8,B1,C1,P2/P3 candidate,Not built,Meta leads-ku call pannumbodhu 'Naan enquiry-eh pannalaye!' nu solraangala?
+29,H04-QUAL_B1_C2_v1,H04,QUAL,8,B1,C2,P2/P3 candidate,Not built,Meta leads-ku call pannumbodhu 'Naan enquiry-eh pannalaye!' nu solraangala?
+30,H04-QUAL_B1_C3_v1,H04,QUAL,8,B1,C3,P2/P3 candidate,Not built,Meta leads-ku call pannumbodhu 'Naan enquiry-eh pannalaye!' nu solraangala?
+31,H04-QUAL_B2_C1_v1,H04,QUAL,8,B2,C1,P2/P3 candidate,Not built,Meta leads-ku call pannumbodhu 'Naan enquiry-eh pannalaye!' nu solraangala?
+32,H04-QUAL_B2_C2_v1,H04,QUAL,8,B2,C2,P2/P3 candidate,Not built,Meta leads-ku call pannumbodhu 'Naan enquiry-eh pannalaye!' nu solraangala?
+33,H04-QUAL_B2_C3_v1,H04,QUAL,8,B2,C3,P2/P3 candidate,Not built,Meta leads-ku call pannumbodhu 'Naan enquiry-eh pannalaye!' nu solraangala?
+34,H04-QUAL_B3_C1_v1,H04,QUAL,8,B3,C1,P2/P3 candidate,Not built,Meta leads-ku call pannumbodhu 'Naan enquiry-eh pannalaye!' nu solraangala?
+35,H04-QUAL_B3_C2_v1,H04,QUAL,8,B3,C2,P1,Not built,Meta leads-ku call pannumbodhu 'Naan enquiry-eh pannalaye!' nu solraangala?
+36,H04-QUAL_B3_C3_v1,H04,QUAL,8,B3,C3,P2/P3 candidate,Not built,Meta leads-ku call pannumbodhu 'Naan enquiry-eh pannalaye!' nu solraangala?
+37,H05-ROI_B1_C1_v1,H05,ROI,9,B1,C1,P2/P3 candidate,Not built,"Meta Ads-la ₹50,000 spend panniyum actual sales evlo vandhuchunu theriyalaya?"
+38,H05-ROI_B1_C2_v1,H05,ROI,9,B1,C2,P2/P3 candidate,Not built,"Meta Ads-la ₹50,000 spend panniyum actual sales evlo vandhuchunu theriyalaya?"
+39,H05-ROI_B1_C3_v1,H05,ROI,9,B1,C3,P2/P3 candidate,Not built,"Meta Ads-la ₹50,000 spend panniyum actual sales evlo vandhuchunu theriyalaya?"
+40,H05-ROI_B2_C1_v1,H05,ROI,9,B2,C1,P2/P3 candidate,Not built,"Meta Ads-la ₹50,000 spend panniyum actual sales evlo vandhuchunu theriyalaya?"
+41,H05-ROI_B2_C2_v1,H05,ROI,9,B2,C2,P2/P3 candidate,Not built,"Meta Ads-la ₹50,000 spend panniyum actual sales evlo vandhuchunu theriyalaya?"
+42,H05-ROI_B2_C3_v1,H05,ROI,9,B2,C3,P2/P3 candidate,Not built,"Meta Ads-la ₹50,000 spend panniyum actual sales evlo vandhuchunu theriyalaya?"
+43,H05-ROI_B3_C1_v1,H05,ROI,9,B3,C1,P2/P3 candidate,Not built,"Meta Ads-la ₹50,000 spend panniyum actual sales evlo vandhuchunu theriyalaya?"
+44,H05-ROI_B3_C2_v1,H05,ROI,9,B3,C2,P1,Not built,"Meta Ads-la ₹50,000 spend panniyum actual sales evlo vandhuchunu theriyalaya?"
+45,H05-ROI_B3_C3_v1,H05,ROI,9,B3,C3,P2/P3 candidate,Not built,"Meta Ads-la ₹50,000 spend panniyum actual sales evlo vandhuchunu theriyalaya?"
+46,H06-QUAL_B1_C1_v1,H06,QUAL,7,B1,C1,P2/P3 candidate,Not built,Unga Meta Ads leads ellarum price mattum kettuttu disappear aagidraangala?
+47,H06-QUAL_B1_C2_v1,H06,QUAL,7,B1,C2,P2/P3 candidate,Not built,Unga Meta Ads leads ellarum price mattum kettuttu disappear aagidraangala?
+48,H06-QUAL_B1_C3_v1,H06,QUAL,7,B1,C3,P2/P3 candidate,Not built,Unga Meta Ads leads ellarum price mattum kettuttu disappear aagidraangala?
+49,H06-QUAL_B2_C1_v1,H06,QUAL,7,B2,C1,P2/P3 candidate,Not built,Unga Meta Ads leads ellarum price mattum kettuttu disappear aagidraangala?
+50,H06-QUAL_B2_C2_v1,H06,QUAL,7,B2,C2,P2/P3 candidate,Not built,Unga Meta Ads leads ellarum price mattum kettuttu disappear aagidraangala?
+51,H06-QUAL_B2_C3_v1,H06,QUAL,7,B2,C3,P2/P3 candidate,Not built,Unga Meta Ads leads ellarum price mattum kettuttu disappear aagidraangala?
+52,H06-QUAL_B3_C1_v1,H06,QUAL,7,B3,C1,P2/P3 candidate,Not built,Unga Meta Ads leads ellarum price mattum kettuttu disappear aagidraangala?
+53,H06-QUAL_B3_C2_v1,H06,QUAL,7,B3,C2,P1,Not built,Unga Meta Ads leads ellarum price mattum kettuttu disappear aagidraangala?
+54,H06-QUAL_B3_C3_v1,H06,QUAL,7,B3,C3,P2/P3 candidate,Not built,Unga Meta Ads leads ellarum price mattum kettuttu disappear aagidraangala?
+55,H07-ROI_B1_C1_v1,H07,ROI,7,B1,C1,P2/P3 candidate,Not built,"Endha ad work aagudhu, endha ad budget waste pannudhu nu theriyalaya?"
+56,H07-ROI_B1_C2_v1,H07,ROI,7,B1,C2,P2/P3 candidate,Not built,"Endha ad work aagudhu, endha ad budget waste pannudhu nu theriyalaya?"
+57,H07-ROI_B1_C3_v1,H07,ROI,7,B1,C3,P2/P3 candidate,Not built,"Endha ad work aagudhu, endha ad budget waste pannudhu nu theriyalaya?"
+58,H07-ROI_B2_C1_v1,H07,ROI,7,B2,C1,P2/P3 candidate,Not built,"Endha ad work aagudhu, endha ad budget waste pannudhu nu theriyalaya?"
+59,H07-ROI_B2_C2_v1,H07,ROI,7,B2,C2,P2/P3 candidate,Not built,"Endha ad work aagudhu, endha ad budget waste pannudhu nu theriyalaya?"
+60,H07-ROI_B2_C3_v1,H07,ROI,7,B2,C3,P2/P3 candidate,Not built,"Endha ad work aagudhu, endha ad budget waste pannudhu nu theriyalaya?"
+61,H07-ROI_B3_C1_v1,H07,ROI,7,B3,C1,P2/P3 candidate,Not built,"Endha ad work aagudhu, endha ad budget waste pannudhu nu theriyalaya?"
+62,H07-ROI_B3_C2_v1,H07,ROI,7,B3,C2,P1,Not built,"Endha ad work aagudhu, endha ad budget waste pannudhu nu theriyalaya?"
+63,H07-ROI_B3_C3_v1,H07,ROI,7,B3,C3,P2/P3 candidate,Not built,"Endha ad work aagudhu, endha ad budget waste pannudhu nu theriyalaya?"
+64,H08-CONV_B1_C1_v1,H08,CONV,8,B1,C1,P2/P3 candidate,Not built,Neraya leads varudhu… aana conversion romba kammiya irukka?
+65,H08-CONV_B1_C2_v1,H08,CONV,8,B1,C2,P2/P3 candidate,Not built,Neraya leads varudhu… aana conversion romba kammiya irukka?
+66,H08-CONV_B1_C3_v1,H08,CONV,8,B1,C3,P2/P3 candidate,Not built,Neraya leads varudhu… aana conversion romba kammiya irukka?
+67,H08-CONV_B2_C1_v1,H08,CONV,8,B2,C1,P2/P3 candidate,Not built,Neraya leads varudhu… aana conversion romba kammiya irukka?
+68,H08-CONV_B2_C2_v1,H08,CONV,8,B2,C2,P2/P3 candidate,Not built,Neraya leads varudhu… aana conversion romba kammiya irukka?
+69,H08-CONV_B2_C3_v1,H08,CONV,8,B2,C3,P2/P3 candidate,Not built,Neraya leads varudhu… aana conversion romba kammiya irukka?
+70,H08-CONV_B3_C1_v1,H08,CONV,8,B3,C1,P2/P3 candidate,Not built,Neraya leads varudhu… aana conversion romba kammiya irukka?
+71,H08-CONV_B3_C2_v1,H08,CONV,8,B3,C2,P1,Not built,Neraya leads varudhu… aana conversion romba kammiya irukka?
+72,H08-CONV_B3_C3_v1,H08,CONV,8,B3,C3,P2/P3 candidate,Not built,Neraya leads varudhu… aana conversion romba kammiya irukka?
+73,H09-QUAL_B1_C1_v1,H09,QUAL,8.5,B1,C1,P2/P3 candidate,Not built,Unga WhatsApp-la 100 enquiries irukku… adhula evlo qualified leads-nu theriyuma?
+74,H09-QUAL_B1_C2_v1,H09,QUAL,8.5,B1,C2,P2/P3 candidate,Not built,Unga WhatsApp-la 100 enquiries irukku… adhula evlo qualified leads-nu theriyuma?
+75,H09-QUAL_B1_C3_v1,H09,QUAL,8.5,B1,C3,P2/P3 candidate,Not built,Unga WhatsApp-la 100 enquiries irukku… adhula evlo qualified leads-nu theriyuma?
+76,H09-QUAL_B2_C1_v1,H09,QUAL,8.5,B2,C1,P2/P3 candidate,Not built,Unga WhatsApp-la 100 enquiries irukku… adhula evlo qualified leads-nu theriyuma?
+77,H09-QUAL_B2_C2_v1,H09,QUAL,8.5,B2,C2,P2/P3 candidate,Not built,Unga WhatsApp-la 100 enquiries irukku… adhula evlo qualified leads-nu theriyuma?
+78,H09-QUAL_B2_C3_v1,H09,QUAL,8.5,B2,C3,P2/P3 candidate,Not built,Unga WhatsApp-la 100 enquiries irukku… adhula evlo qualified leads-nu theriyuma?
+79,H09-QUAL_B3_C1_v1,H09,QUAL,8.5,B3,C1,P2/P3 candidate,Not built,Unga WhatsApp-la 100 enquiries irukku… adhula evlo qualified leads-nu theriyuma?
+80,H09-QUAL_B3_C2_v1,H09,QUAL,8.5,B3,C2,P1,Not built,Unga WhatsApp-la 100 enquiries irukku… adhula evlo qualified leads-nu theriyuma?
+81,H09-QUAL_B3_C3_v1,H09,QUAL,8.5,B3,C3,P2/P3 candidate,Not built,Unga WhatsApp-la 100 enquiries irukku… adhula evlo qualified leads-nu theriyuma?
+82,H10-DIAG_B1_C1_v1,H10,DIAG,7,B1,C1,P2/P3 candidate,Not built,"Unga problem targeting-la irukka, creative-la irukka, illa sales follow-up-la irukka?"
+83,H10-DIAG_B1_C2_v1,H10,DIAG,7,B1,C2,P2/P3 candidate,Not built,"Unga problem targeting-la irukka, creative-la irukka, illa sales follow-up-la irukka?"
+84,H10-DIAG_B1_C3_v1,H10,DIAG,7,B1,C3,P2/P3 candidate,Not built,"Unga problem targeting-la irukka, creative-la irukka, illa sales follow-up-la irukka?"
+85,H10-DIAG_B2_C1_v1,H10,DIAG,7,B2,C1,P2/P3 candidate,Not built,"Unga problem targeting-la irukka, creative-la irukka, illa sales follow-up-la irukka?"
+86,H10-DIAG_B2_C2_v1,H10,DIAG,7,B2,C2,P2/P3 candidate,Not built,"Unga problem targeting-la irukka, creative-la irukka, illa sales follow-up-la irukka?"
+87,H10-DIAG_B2_C3_v1,H10,DIAG,7,B2,C3,P2/P3 candidate,Not built,"Unga problem targeting-la irukka, creative-la irukka, illa sales follow-up-la irukka?"
+88,H10-DIAG_B3_C1_v1,H10,DIAG,7,B3,C1,P2/P3 candidate,Not built,"Unga problem targeting-la irukka, creative-la irukka, illa sales follow-up-la irukka?"
+89,H10-DIAG_B3_C2_v1,H10,DIAG,7,B3,C2,P1,Not built,"Unga problem targeting-la irukka, creative-la irukka, illa sales follow-up-la irukka?"
+90,H10-DIAG_B3_C3_v1,H10,DIAG,7,B3,C3,P2/P3 candidate,Not built,"Unga problem targeting-la irukka, creative-la irukka, illa sales follow-up-la irukka?"
+91,H11-CPL_B1_C1_v1,H11,CPL,7.5,B1,C1,P2/P3 candidate,Not built,CPL yerikitte pogudha? Aana lead quality improve aagalaya?
+92,H11-CPL_B1_C2_v1,H11,CPL,7.5,B1,C2,P2/P3 candidate,Not built,CPL yerikitte pogudha? Aana lead quality improve aagalaya?
+93,H11-CPL_B1_C3_v1,H11,CPL,7.5,B1,C3,P2/P3 candidate,Not built,CPL yerikitte pogudha? Aana lead quality improve aagalaya?
+94,H11-CPL_B2_C1_v1,H11,CPL,7.5,B2,C1,P2/P3 candidate,Not built,CPL yerikitte pogudha? Aana lead quality improve aagalaya?
+95,H11-CPL_B2_C2_v1,H11,CPL,7.5,B2,C2,P2/P3 candidate,Not built,CPL yerikitte pogudha? Aana lead quality improve aagalaya?
+96,H11-CPL_B2_C3_v1,H11,CPL,7.5,B2,C3,P2/P3 candidate,Not built,CPL yerikitte pogudha? Aana lead quality improve aagalaya?
+97,H11-CPL_B3_C1_v1,H11,CPL,7.5,B3,C1,P2/P3 candidate,Not built,CPL yerikitte pogudha? Aana lead quality improve aagalaya?
+98,H11-CPL_B3_C2_v1,H11,CPL,7.5,B3,C2,P1,Not built,CPL yerikitte pogudha? Aana lead quality improve aagalaya?
+99,H11-CPL_B3_C3_v1,H11,CPL,7.5,B3,C3,P2/P3 candidate,Not built,CPL yerikitte pogudha? Aana lead quality improve aagalaya?
+100,H12-QUAL_B1_C1_v1,H12,QUAL,7,B1,C1,P2/P3 candidate,Not built,Meta Ads-la junk leads mattum dhaan varudha?
+101,H12-QUAL_B1_C2_v1,H12,QUAL,7,B1,C2,P2/P3 candidate,Not built,Meta Ads-la junk leads mattum dhaan varudha?
+102,H12-QUAL_B1_C3_v1,H12,QUAL,7,B1,C3,P2/P3 candidate,Not built,Meta Ads-la junk leads mattum dhaan varudha?
+103,H12-QUAL_B2_C1_v1,H12,QUAL,7,B2,C1,P2/P3 candidate,Not built,Meta Ads-la junk leads mattum dhaan varudha?
+104,H12-QUAL_B2_C2_v1,H12,QUAL,7,B2,C2,P2/P3 candidate,Not built,Meta Ads-la junk leads mattum dhaan varudha?
+105,H12-QUAL_B2_C3_v1,H12,QUAL,7,B2,C3,P2/P3 candidate,Not built,Meta Ads-la junk leads mattum dhaan varudha?
+106,H12-QUAL_B3_C1_v1,H12,QUAL,7,B3,C1,P2/P3 candidate,Not built,Meta Ads-la junk leads mattum dhaan varudha?
+107,H12-QUAL_B3_C2_v1,H12,QUAL,7,B3,C2,P1,Not built,Meta Ads-la junk leads mattum dhaan varudha?
+108,H12-QUAL_B3_C3_v1,H12,QUAL,7,B3,C3,P2/P3 candidate,Not built,Meta Ads-la junk leads mattum dhaan varudha?
+109,H13-TECH_B1_C1_v1,H13,TECH,6,B1,C1,Reserve,Not built,Wrong location-la irundhu neraya leads varudha?
+110,H13-TECH_B1_C2_v1,H13,TECH,6,B1,C2,Reserve,Not built,Wrong location-la irundhu neraya leads varudha?
+111,H13-TECH_B1_C3_v1,H13,TECH,6,B1,C3,Reserve,Not built,Wrong location-la irundhu neraya leads varudha?
+112,H13-TECH_B2_C1_v1,H13,TECH,6,B2,C1,Reserve,Not built,Wrong location-la irundhu neraya leads varudha?
+113,H13-TECH_B2_C2_v1,H13,TECH,6,B2,C2,Reserve,Not built,Wrong location-la irundhu neraya leads varudha?
+114,H13-TECH_B2_C3_v1,H13,TECH,6,B2,C3,Reserve,Not built,Wrong location-la irundhu neraya leads varudha?
+115,H13-TECH_B3_C1_v1,H13,TECH,6,B3,C1,Reserve,Not built,Wrong location-la irundhu neraya leads varudha?
+116,H13-TECH_B3_C2_v1,H13,TECH,6,B3,C2,P1,Not built,Wrong location-la irundhu neraya leads varudha?
+117,H13-TECH_B3_C3_v1,H13,TECH,6,B3,C3,Reserve,Not built,Wrong location-la irundhu neraya leads varudha?
+118,H14-NOLEAD_B1_C1_v1,H14,NOLEAD,5,B1,C1,Reserve,Not built,"Daily ₹1,000 spend panniyum leads varalaya?"
+119,H14-NOLEAD_B1_C2_v1,H14,NOLEAD,5,B1,C2,Reserve,Not built,"Daily ₹1,000 spend panniyum leads varalaya?"
+120,H14-NOLEAD_B1_C3_v1,H14,NOLEAD,5,B1,C3,Reserve,Not built,"Daily ₹1,000 spend panniyum leads varalaya?"
+121,H14-NOLEAD_B2_C1_v1,H14,NOLEAD,5,B2,C1,Reserve,Not built,"Daily ₹1,000 spend panniyum leads varalaya?"
+122,H14-NOLEAD_B2_C2_v1,H14,NOLEAD,5,B2,C2,Reserve,Not built,"Daily ₹1,000 spend panniyum leads varalaya?"
+123,H14-NOLEAD_B2_C3_v1,H14,NOLEAD,5,B2,C3,Reserve,Not built,"Daily ₹1,000 spend panniyum leads varalaya?"
+124,H14-NOLEAD_B3_C1_v1,H14,NOLEAD,5,B3,C1,Reserve,Not built,"Daily ₹1,000 spend panniyum leads varalaya?"
+125,H14-NOLEAD_B3_C2_v1,H14,NOLEAD,5,B3,C2,Reserve,Not built,"Daily ₹1,000 spend panniyum leads varalaya?"
+126,H14-NOLEAD_B3_C3_v1,H14,NOLEAD,5,B3,C3,Reserve,Not built,"Daily ₹1,000 spend panniyum leads varalaya?"
+127,H15-NOLEAD_B1_C1_v1,H15,NOLEAD,5,B1,C1,Reserve,Not built,"Maasam ₹30,000 spend panniyum leads varalaya?"
+128,H15-NOLEAD_B1_C2_v1,H15,NOLEAD,5,B1,C2,Reserve,Not built,"Maasam ₹30,000 spend panniyum leads varalaya?"
+129,H15-NOLEAD_B1_C3_v1,H15,NOLEAD,5,B1,C3,Reserve,Not built,"Maasam ₹30,000 spend panniyum leads varalaya?"
+130,H15-NOLEAD_B2_C1_v1,H15,NOLEAD,5,B2,C1,Reserve,Not built,"Maasam ₹30,000 spend panniyum leads varalaya?"
+131,H15-NOLEAD_B2_C2_v1,H15,NOLEAD,5,B2,C2,Reserve,Not built,"Maasam ₹30,000 spend panniyum leads varalaya?"
+132,H15-NOLEAD_B2_C3_v1,H15,NOLEAD,5,B2,C3,Reserve,Not built,"Maasam ₹30,000 spend panniyum leads varalaya?"
+133,H15-NOLEAD_B3_C1_v1,H15,NOLEAD,5,B3,C1,Reserve,Not built,"Maasam ₹30,000 spend panniyum leads varalaya?"
+134,H15-NOLEAD_B3_C2_v1,H15,NOLEAD,5,B3,C2,Reserve,Not built,"Maasam ₹30,000 spend panniyum leads varalaya?"
+135,H15-NOLEAD_B3_C3_v1,H15,NOLEAD,5,B3,C3,Reserve,Not built,"Maasam ₹30,000 spend panniyum leads varalaya?"
+136,H16-SALES_B1_C1_v1,H16,SALES,7.5,B1,C1,P2/P3 candidate,Not built,Neraya enquiries varudhu… aana correct-ah follow-up panna mudiyalaya?
+137,H16-SALES_B1_C2_v1,H16,SALES,7.5,B1,C2,P2/P3 candidate,Not built,Neraya enquiries varudhu… aana correct-ah follow-up panna mudiyalaya?
+138,H16-SALES_B1_C3_v1,H16,SALES,7.5,B1,C3,P2/P3 candidate,Not built,Neraya enquiries varudhu… aana correct-ah follow-up panna mudiyalaya?
+139,H16-SALES_B2_C1_v1,H16,SALES,7.5,B2,C1,P2/P3 candidate,Not built,Neraya enquiries varudhu… aana correct-ah follow-up panna mudiyalaya?
+140,H16-SALES_B2_C2_v1,H16,SALES,7.5,B2,C2,P2/P3 candidate,Not built,Neraya enquiries varudhu… aana correct-ah follow-up panna mudiyalaya?
+141,H16-SALES_B2_C3_v1,H16,SALES,7.5,B2,C3,P2/P3 candidate,Not built,Neraya enquiries varudhu… aana correct-ah follow-up panna mudiyalaya?
+142,H16-SALES_B3_C1_v1,H16,SALES,7.5,B3,C1,P2/P3 candidate,Not built,Neraya enquiries varudhu… aana correct-ah follow-up panna mudiyalaya?
+143,H16-SALES_B3_C2_v1,H16,SALES,7.5,B3,C2,P1,Not built,Neraya enquiries varudhu… aana correct-ah follow-up panna mudiyalaya?
+144,H16-SALES_B3_C3_v1,H16,SALES,7.5,B3,C3,P2/P3 candidate,Not built,Neraya enquiries varudhu… aana correct-ah follow-up panna mudiyalaya?
+145,H17-SALES_B1_C1_v1,H17,SALES,8,B1,C1,P2/P3 candidate,Not built,Leads vandhukitte irukku… oru conversion-um illa! Sales team enna panraangane theriyalaya?
+146,H17-SALES_B1_C2_v1,H17,SALES,8,B1,C2,P2/P3 candidate,Not built,Leads vandhukitte irukku… oru conversion-um illa! Sales team enna panraangane theriyalaya?
+147,H17-SALES_B1_C3_v1,H17,SALES,8,B1,C3,P2/P3 candidate,Not built,Leads vandhukitte irukku… oru conversion-um illa! Sales team enna panraangane theriyalaya?
+148,H17-SALES_B2_C1_v1,H17,SALES,8,B2,C1,P2/P3 candidate,Not built,Leads vandhukitte irukku… oru conversion-um illa! Sales team enna panraangane theriyalaya?
+149,H17-SALES_B2_C2_v1,H17,SALES,8,B2,C2,P2/P3 candidate,Not built,Leads vandhukitte irukku… oru conversion-um illa! Sales team enna panraangane theriyalaya?
+150,H17-SALES_B2_C3_v1,H17,SALES,8,B2,C3,P2/P3 candidate,Not built,Leads vandhukitte irukku… oru conversion-um illa! Sales team enna panraangane theriyalaya?
+151,H17-SALES_B3_C1_v1,H17,SALES,8,B3,C1,P2/P3 candidate,Not built,Leads vandhukitte irukku… oru conversion-um illa! Sales team enna panraangane theriyalaya?
+152,H17-SALES_B3_C2_v1,H17,SALES,8,B3,C2,P1,Not built,Leads vandhukitte irukku… oru conversion-um illa! Sales team enna panraangane theriyalaya?
+153,H17-SALES_B3_C3_v1,H17,SALES,8,B3,C3,P2/P3 candidate,Not built,Leads vandhukitte irukku… oru conversion-um illa! Sales team enna panraangane theriyalaya?
+154,H18-QUAL_B1_C1_v1,H18,QUAL,8,B1,C1,P2/P3 candidate,Not built,10 leads-la 8 per phone edukka maatraangala?
+155,H18-QUAL_B1_C2_v1,H18,QUAL,8,B1,C2,P2/P3 candidate,Not built,10 leads-la 8 per phone edukka maatraangala?
+156,H18-QUAL_B1_C3_v1,H18,QUAL,8,B1,C3,P2/P3 candidate,Not built,10 leads-la 8 per phone edukka maatraangala?
+157,H18-QUAL_B2_C1_v1,H18,QUAL,8,B2,C1,P2/P3 candidate,Not built,10 leads-la 8 per phone edukka maatraangala?
+158,H18-QUAL_B2_C2_v1,H18,QUAL,8,B2,C2,P2/P3 candidate,Not built,10 leads-la 8 per phone edukka maatraangala?
+159,H18-QUAL_B2_C3_v1,H18,QUAL,8,B2,C3,P2/P3 candidate,Not built,10 leads-la 8 per phone edukka maatraangala?
+160,H18-QUAL_B3_C1_v1,H18,QUAL,8,B3,C1,P2/P3 candidate,Not built,10 leads-la 8 per phone edukka maatraangala?
+161,H18-QUAL_B3_C2_v1,H18,QUAL,8,B3,C2,P1,Not built,10 leads-la 8 per phone edukka maatraangala?
+162,H18-QUAL_B3_C3_v1,H18,QUAL,8,B3,C3,P2/P3 candidate,Not built,10 leads-la 8 per phone edukka maatraangala?
+163,H19-QUAL_B1_C1_v1,H19,QUAL,6.5,B1,C1,P2/P3 candidate,Not built,Lead vandha udane call pannalum response illaya?
+164,H19-QUAL_B1_C2_v1,H19,QUAL,6.5,B1,C2,P2/P3 candidate,Not built,Lead vandha udane call pannalum response illaya?
+165,H19-QUAL_B1_C3_v1,H19,QUAL,6.5,B1,C3,P2/P3 candidate,Not built,Lead vandha udane call pannalum response illaya?
+166,H19-QUAL_B2_C1_v1,H19,QUAL,6.5,B2,C1,P2/P3 candidate,Not built,Lead vandha udane call pannalum response illaya?
+167,H19-QUAL_B2_C2_v1,H19,QUAL,6.5,B2,C2,P2/P3 candidate,Not built,Lead vandha udane call pannalum response illaya?
+168,H19-QUAL_B2_C3_v1,H19,QUAL,6.5,B2,C3,P2/P3 candidate,Not built,Lead vandha udane call pannalum response illaya?
+169,H19-QUAL_B3_C1_v1,H19,QUAL,6.5,B3,C1,P2/P3 candidate,Not built,Lead vandha udane call pannalum response illaya?
+170,H19-QUAL_B3_C2_v1,H19,QUAL,6.5,B3,C2,P1,Not built,Lead vandha udane call pannalum response illaya?
+171,H19-QUAL_B3_C3_v1,H19,QUAL,6.5,B3,C3,P2/P3 candidate,Not built,Lead vandha udane call pannalum response illaya?
+172,H20-QUAL_B1_C1_v1,H20,QUAL,8,B1,C1,P2/P3 candidate,Not built,'Just details therinjukka enquiry pannen' nu solra leads dhaan adhigama varudha?
+173,H20-QUAL_B1_C2_v1,H20,QUAL,8,B1,C2,P2/P3 candidate,Not built,'Just details therinjukka enquiry pannen' nu solra leads dhaan adhigama varudha?
+174,H20-QUAL_B1_C3_v1,H20,QUAL,8,B1,C3,P2/P3 candidate,Not built,'Just details therinjukka enquiry pannen' nu solra leads dhaan adhigama varudha?
+175,H20-QUAL_B2_C1_v1,H20,QUAL,8,B2,C1,P2/P3 candidate,Not built,'Just details therinjukka enquiry pannen' nu solra leads dhaan adhigama varudha?
+176,H20-QUAL_B2_C2_v1,H20,QUAL,8,B2,C2,P2/P3 candidate,Not built,'Just details therinjukka enquiry pannen' nu solra leads dhaan adhigama varudha?
+177,H20-QUAL_B2_C3_v1,H20,QUAL,8,B2,C3,P2/P3 candidate,Not built,'Just details therinjukka enquiry pannen' nu solra leads dhaan adhigama varudha?
+178,H20-QUAL_B3_C1_v1,H20,QUAL,8,B3,C1,P2/P3 candidate,Not built,'Just details therinjukka enquiry pannen' nu solra leads dhaan adhigama varudha?
+179,H20-QUAL_B3_C2_v1,H20,QUAL,8,B3,C2,P1,Not built,'Just details therinjukka enquiry pannen' nu solra leads dhaan adhigama varudha?
+180,H20-QUAL_B3_C3_v1,H20,QUAL,8,B3,C3,P2/P3 candidate,Not built,'Just details therinjukka enquiry pannen' nu solra leads dhaan adhigama varudha?
+181,H21-QUAL_B1_C1_v1,H21,QUAL,7,B1,C1,P2/P3 candidate,Not built,Leads varudhu… aana vaangura intention irukkura customers varalaya?
+182,H21-QUAL_B1_C2_v1,H21,QUAL,7,B1,C2,P2/P3 candidate,Not built,Leads varudhu… aana vaangura intention irukkura customers varalaya?
+183,H21-QUAL_B1_C3_v1,H21,QUAL,7,B1,C3,P2/P3 candidate,Not built,Leads varudhu… aana vaangura intention irukkura customers varalaya?
+184,H21-QUAL_B2_C1_v1,H21,QUAL,7,B2,C1,P2/P3 candidate,Not built,Leads varudhu… aana vaangura intention irukkura customers varalaya?
+185,H21-QUAL_B2_C2_v1,H21,QUAL,7,B2,C2,P2/P3 candidate,Not built,Leads varudhu… aana vaangura intention irukkura customers varalaya?
+186,H21-QUAL_B2_C3_v1,H21,QUAL,7,B2,C3,P2/P3 candidate,Not built,Leads varudhu… aana vaangura intention irukkura customers varalaya?
+187,H21-QUAL_B3_C1_v1,H21,QUAL,7,B3,C1,P2/P3 candidate,Not built,Leads varudhu… aana vaangura intention irukkura customers varalaya?
+188,H21-QUAL_B3_C2_v1,H21,QUAL,7,B3,C2,P1,Not built,Leads varudhu… aana vaangura intention irukkura customers varalaya?
+189,H21-QUAL_B3_C3_v1,H21,QUAL,7,B3,C3,P2/P3 candidate,Not built,Leads varudhu… aana vaangura intention irukkura customers varalaya?
+190,H22-QUAL_B1_C1_v1,H22,QUAL,6.5,B1,C1,P2/P3 candidate,Not built,Unga service-ku sambandhame illaadha enquiries varudha?
+191,H22-QUAL_B1_C2_v1,H22,QUAL,6.5,B1,C2,P2/P3 candidate,Not built,Unga service-ku sambandhame illaadha enquiries varudha?
+192,H22-QUAL_B1_C3_v1,H22,QUAL,6.5,B1,C3,P2/P3 candidate,Not built,Unga service-ku sambandhame illaadha enquiries varudha?
+193,H22-QUAL_B2_C1_v1,H22,QUAL,6.5,B2,C1,P2/P3 candidate,Not built,Unga service-ku sambandhame illaadha enquiries varudha?
+194,H22-QUAL_B2_C2_v1,H22,QUAL,6.5,B2,C2,P2/P3 candidate,Not built,Unga service-ku sambandhame illaadha enquiries varudha?
+195,H22-QUAL_B2_C3_v1,H22,QUAL,6.5,B2,C3,P2/P3 candidate,Not built,Unga service-ku sambandhame illaadha enquiries varudha?
+196,H22-QUAL_B3_C1_v1,H22,QUAL,6.5,B3,C1,P2/P3 candidate,Not built,Unga service-ku sambandhame illaadha enquiries varudha?
+197,H22-QUAL_B3_C2_v1,H22,QUAL,6.5,B3,C2,P1,Not built,Unga service-ku sambandhame illaadha enquiries varudha?
+198,H22-QUAL_B3_C3_v1,H22,QUAL,6.5,B3,C3,P2/P3 candidate,Not built,Unga service-ku sambandhame illaadha enquiries varudha?
+199,H23-CONV_B1_C1_v1,H23,CONV,8,B1,C1,P2/P3 candidate,Not built,Cheap leads varudhu… aana oru customer-kooda convert aagalaya?
+200,H23-CONV_B1_C2_v1,H23,CONV,8,B1,C2,P2/P3 candidate,Not built,Cheap leads varudhu… aana oru customer-kooda convert aagalaya?
+201,H23-CONV_B1_C3_v1,H23,CONV,8,B1,C3,P2/P3 candidate,Not built,Cheap leads varudhu… aana oru customer-kooda convert aagalaya?
+202,H23-CONV_B2_C1_v1,H23,CONV,8,B2,C1,P2/P3 candidate,Not built,Cheap leads varudhu… aana oru customer-kooda convert aagalaya?
+203,H23-CONV_B2_C2_v1,H23,CONV,8,B2,C2,P2/P3 candidate,Not built,Cheap leads varudhu… aana oru customer-kooda convert aagalaya?
+204,H23-CONV_B2_C3_v1,H23,CONV,8,B2,C3,P2/P3 candidate,Not built,Cheap leads varudhu… aana oru customer-kooda convert aagalaya?
+205,H23-CONV_B3_C1_v1,H23,CONV,8,B3,C1,P2/P3 candidate,Not built,Cheap leads varudhu… aana oru customer-kooda convert aagalaya?
+206,H23-CONV_B3_C2_v1,H23,CONV,8,B3,C2,P1,Not built,Cheap leads varudhu… aana oru customer-kooda convert aagalaya?
+207,H23-CONV_B3_C3_v1,H23,CONV,8,B3,C3,P2/P3 candidate,Not built,Cheap leads varudhu… aana oru customer-kooda convert aagalaya?
+208,H24-QUAL_B1_C1_v1,H24,QUAL,7,B1,C1,P2/P3 candidate,Not built,"'Ippo vendaam, appuram paakalam' nu solra leads dhaan adhigama irukka?"
+209,H24-QUAL_B1_C2_v1,H24,QUAL,7,B1,C2,P2/P3 candidate,Not built,"'Ippo vendaam, appuram paakalam' nu solra leads dhaan adhigama irukka?"
+210,H24-QUAL_B1_C3_v1,H24,QUAL,7,B1,C3,P2/P3 candidate,Not built,"'Ippo vendaam, appuram paakalam' nu solra leads dhaan adhigama irukka?"
+211,H24-QUAL_B2_C1_v1,H24,QUAL,7,B2,C1,P2/P3 candidate,Not built,"'Ippo vendaam, appuram paakalam' nu solra leads dhaan adhigama irukka?"
+212,H24-QUAL_B2_C2_v1,H24,QUAL,7,B2,C2,P2/P3 candidate,Not built,"'Ippo vendaam, appuram paakalam' nu solra leads dhaan adhigama irukka?"
+213,H24-QUAL_B2_C3_v1,H24,QUAL,7,B2,C3,P2/P3 candidate,Not built,"'Ippo vendaam, appuram paakalam' nu solra leads dhaan adhigama irukka?"
+214,H24-QUAL_B3_C1_v1,H24,QUAL,7,B3,C1,P2/P3 candidate,Not built,"'Ippo vendaam, appuram paakalam' nu solra leads dhaan adhigama irukka?"
+215,H24-QUAL_B3_C2_v1,H24,QUAL,7,B3,C2,P1,Not built,"'Ippo vendaam, appuram paakalam' nu solra leads dhaan adhigama irukka?"
+216,H24-QUAL_B3_C3_v1,H24,QUAL,7,B3,C3,P2/P3 candidate,Not built,"'Ippo vendaam, appuram paakalam' nu solra leads dhaan adhigama irukka?"
+217,H25-QUAL_B1_C1_v1,H25,QUAL,7.5,B1,C1,P2/P3 candidate,Not built,Unga Meta Ads-la students-um job seekers-um dhaan enquiry panraangala?
+218,H25-QUAL_B1_C2_v1,H25,QUAL,7.5,B1,C2,P2/P3 candidate,Not built,Unga Meta Ads-la students-um job seekers-um dhaan enquiry panraangala?
+219,H25-QUAL_B1_C3_v1,H25,QUAL,7.5,B1,C3,P2/P3 candidate,Not built,Unga Meta Ads-la students-um job seekers-um dhaan enquiry panraangala?
+220,H25-QUAL_B2_C1_v1,H25,QUAL,7.5,B2,C1,P2/P3 candidate,Not built,Unga Meta Ads-la students-um job seekers-um dhaan enquiry panraangala?
+221,H25-QUAL_B2_C2_v1,H25,QUAL,7.5,B2,C2,P2/P3 candidate,Not built,Unga Meta Ads-la students-um job seekers-um dhaan enquiry panraangala?
+222,H25-QUAL_B2_C3_v1,H25,QUAL,7.5,B2,C3,P2/P3 candidate,Not built,Unga Meta Ads-la students-um job seekers-um dhaan enquiry panraangala?
+223,H25-QUAL_B3_C1_v1,H25,QUAL,7.5,B3,C1,P2/P3 candidate,Not built,Unga Meta Ads-la students-um job seekers-um dhaan enquiry panraangala?
+224,H25-QUAL_B3_C2_v1,H25,QUAL,7.5,B3,C2,P1,Not built,Unga Meta Ads-la students-um job seekers-um dhaan enquiry panraangala?
+225,H25-QUAL_B3_C3_v1,H25,QUAL,7.5,B3,C3,P2/P3 candidate,Not built,Unga Meta Ads-la students-um job seekers-um dhaan enquiry panraangala?
+226,H26-QUAL_B1_C1_v1,H26,QUAL,7,B1,C1,P2/P3 candidate,Not built,Lead form fill panraanga… aana call pannumbodhu wrong number-ah irukka?
+227,H26-QUAL_B1_C2_v1,H26,QUAL,7,B1,C2,P2/P3 candidate,Not built,Lead form fill panraanga… aana call pannumbodhu wrong number-ah irukka?
+228,H26-QUAL_B1_C3_v1,H26,QUAL,7,B1,C3,P2/P3 candidate,Not built,Lead form fill panraanga… aana call pannumbodhu wrong number-ah irukka?
+229,H26-QUAL_B2_C1_v1,H26,QUAL,7,B2,C1,P2/P3 candidate,Not built,Lead form fill panraanga… aana call pannumbodhu wrong number-ah irukka?
+230,H26-QUAL_B2_C2_v1,H26,QUAL,7,B2,C2,P2/P3 candidate,Not built,Lead form fill panraanga… aana call pannumbodhu wrong number-ah irukka?
+231,H26-QUAL_B2_C3_v1,H26,QUAL,7,B2,C3,P2/P3 candidate,Not built,Lead form fill panraanga… aana call pannumbodhu wrong number-ah irukka?
+232,H26-QUAL_B3_C1_v1,H26,QUAL,7,B3,C1,P2/P3 candidate,Not built,Lead form fill panraanga… aana call pannumbodhu wrong number-ah irukka?
+233,H26-QUAL_B3_C2_v1,H26,QUAL,7,B3,C2,P1,Not built,Lead form fill panraanga… aana call pannumbodhu wrong number-ah irukka?
+234,H26-QUAL_B3_C3_v1,H26,QUAL,7,B3,C3,P2/P3 candidate,Not built,Lead form fill panraanga… aana call pannumbodhu wrong number-ah irukka?
+235,H27-NOLEAD_B1_C1_v1,H27,NOLEAD,5.5,B1,C1,Reserve,Not built,Budget increase panniyum leads increase aagalaya?
+236,H27-NOLEAD_B1_C2_v1,H27,NOLEAD,5.5,B1,C2,Reserve,Not built,Budget increase panniyum leads increase aagalaya?
+237,H27-NOLEAD_B1_C3_v1,H27,NOLEAD,5.5,B1,C3,Reserve,Not built,Budget increase panniyum leads increase aagalaya?
+238,H27-NOLEAD_B2_C1_v1,H27,NOLEAD,5.5,B2,C1,Reserve,Not built,Budget increase panniyum leads increase aagalaya?
+239,H27-NOLEAD_B2_C2_v1,H27,NOLEAD,5.5,B2,C2,Reserve,Not built,Budget increase panniyum leads increase aagalaya?
+240,H27-NOLEAD_B2_C3_v1,H27,NOLEAD,5.5,B2,C3,Reserve,Not built,Budget increase panniyum leads increase aagalaya?
+241,H27-NOLEAD_B3_C1_v1,H27,NOLEAD,5.5,B3,C1,Reserve,Not built,Budget increase panniyum leads increase aagalaya?
+242,H27-NOLEAD_B3_C2_v1,H27,NOLEAD,5.5,B3,C2,P1,Not built,Budget increase panniyum leads increase aagalaya?
+243,H27-NOLEAD_B3_C3_v1,H27,NOLEAD,5.5,B3,C3,Reserve,Not built,Budget increase panniyum leads increase aagalaya?
+244,H28-TECH_B1_C1_v1,H28,TECH,6,B1,C1,Reserve,Not built,Nalla perform aana ad sudden-ah leads kudukkuradha stop panniducha?
+245,H28-TECH_B1_C2_v1,H28,TECH,6,B1,C2,Reserve,Not built,Nalla perform aana ad sudden-ah leads kudukkuradha stop panniducha?
+246,H28-TECH_B1_C3_v1,H28,TECH,6,B1,C3,Reserve,Not built,Nalla perform aana ad sudden-ah leads kudukkuradha stop panniducha?
+247,H28-TECH_B2_C1_v1,H28,TECH,6,B2,C1,Reserve,Not built,Nalla perform aana ad sudden-ah leads kudukkuradha stop panniducha?
+248,H28-TECH_B2_C2_v1,H28,TECH,6,B2,C2,Reserve,Not built,Nalla perform aana ad sudden-ah leads kudukkuradha stop panniducha?
+249,H28-TECH_B2_C3_v1,H28,TECH,6,B2,C3,Reserve,Not built,Nalla perform aana ad sudden-ah leads kudukkuradha stop panniducha?
+250,H28-TECH_B3_C1_v1,H28,TECH,6,B3,C1,Reserve,Not built,Nalla perform aana ad sudden-ah leads kudukkuradha stop panniducha?
+251,H28-TECH_B3_C2_v1,H28,TECH,6,B3,C2,P1,Not built,Nalla perform aana ad sudden-ah leads kudukkuradha stop panniducha?
+252,H28-TECH_B3_C3_v1,H28,TECH,6,B3,C3,Reserve,Not built,Nalla perform aana ad sudden-ah leads kudukkuradha stop panniducha?
+253,H29-TECH_B1_C1_v1,H29,TECH,4,B1,C1,Reserve,Not built,Budget spend aagudhu… aana enquiry notification varave illaya?
+254,H29-TECH_B1_C2_v1,H29,TECH,4,B1,C2,Reserve,Not built,Budget spend aagudhu… aana enquiry notification varave illaya?
+255,H29-TECH_B1_C3_v1,H29,TECH,4,B1,C3,Reserve,Not built,Budget spend aagudhu… aana enquiry notification varave illaya?
+256,H29-TECH_B2_C1_v1,H29,TECH,4,B2,C1,Reserve,Not built,Budget spend aagudhu… aana enquiry notification varave illaya?
+257,H29-TECH_B2_C2_v1,H29,TECH,4,B2,C2,Reserve,Not built,Budget spend aagudhu… aana enquiry notification varave illaya?
+258,H29-TECH_B2_C3_v1,H29,TECH,4,B2,C3,Reserve,Not built,Budget spend aagudhu… aana enquiry notification varave illaya?
+259,H29-TECH_B3_C1_v1,H29,TECH,4,B3,C1,Reserve,Not built,Budget spend aagudhu… aana enquiry notification varave illaya?
+260,H29-TECH_B3_C2_v1,H29,TECH,4,B3,C2,Reserve,Not built,Budget spend aagudhu… aana enquiry notification varave illaya?
+261,H29-TECH_B3_C3_v1,H29,TECH,4,B3,C3,Reserve,Not built,Budget spend aagudhu… aana enquiry notification varave illaya?
+262,H30-TECH_B1_C1_v1,H30,TECH,4,B1,C1,Reserve,Not built,Ad duplicate pannadhukku appuram performance drop aayiducha?
+263,H30-TECH_B1_C2_v1,H30,TECH,4,B1,C2,Reserve,Not built,Ad duplicate pannadhukku appuram performance drop aayiducha?
+264,H30-TECH_B1_C3_v1,H30,TECH,4,B1,C3,Reserve,Not built,Ad duplicate pannadhukku appuram performance drop aayiducha?
+265,H30-TECH_B2_C1_v1,H30,TECH,4,B2,C1,Reserve,Not built,Ad duplicate pannadhukku appuram performance drop aayiducha?
+266,H30-TECH_B2_C2_v1,H30,TECH,4,B2,C2,Reserve,Not built,Ad duplicate pannadhukku appuram performance drop aayiducha?
+267,H30-TECH_B2_C3_v1,H30,TECH,4,B2,C3,Reserve,Not built,Ad duplicate pannadhukku appuram performance drop aayiducha?
+268,H30-TECH_B3_C1_v1,H30,TECH,4,B3,C1,Reserve,Not built,Ad duplicate pannadhukku appuram performance drop aayiducha?
+269,H30-TECH_B3_C2_v1,H30,TECH,4,B3,C2,Reserve,Not built,Ad duplicate pannadhukku appuram performance drop aayiducha?
+270,H30-TECH_B3_C3_v1,H30,TECH,4,B3,C3,Reserve,Not built,Ad duplicate pannadhukku appuram performance drop aayiducha?
+271,H31-TECH_B1_C1_v1,H31,TECH,4.5,B1,C1,Reserve,Not built,"Daily budget increase pannalama, illa existing ad-ah optimize pannalama nu confusion-ah?"
+272,H31-TECH_B1_C2_v1,H31,TECH,4.5,B1,C2,Reserve,Not built,"Daily budget increase pannalama, illa existing ad-ah optimize pannalama nu confusion-ah?"
+273,H31-TECH_B1_C3_v1,H31,TECH,4.5,B1,C3,Reserve,Not built,"Daily budget increase pannalama, illa existing ad-ah optimize pannalama nu confusion-ah?"
+274,H31-TECH_B2_C1_v1,H31,TECH,4.5,B2,C1,Reserve,Not built,"Daily budget increase pannalama, illa existing ad-ah optimize pannalama nu confusion-ah?"
+275,H31-TECH_B2_C2_v1,H31,TECH,4.5,B2,C2,Reserve,Not built,"Daily budget increase pannalama, illa existing ad-ah optimize pannalama nu confusion-ah?"
+276,H31-TECH_B2_C3_v1,H31,TECH,4.5,B2,C3,Reserve,Not built,"Daily budget increase pannalama, illa existing ad-ah optimize pannalama nu confusion-ah?"
+277,H31-TECH_B3_C1_v1,H31,TECH,4.5,B3,C1,Reserve,Not built,"Daily budget increase pannalama, illa existing ad-ah optimize pannalama nu confusion-ah?"
+278,H31-TECH_B3_C2_v1,H31,TECH,4.5,B3,C2,Reserve,Not built,"Daily budget increase pannalama, illa existing ad-ah optimize pannalama nu confusion-ah?"
+279,H31-TECH_B3_C3_v1,H31,TECH,4.5,B3,C3,Reserve,Not built,"Daily budget increase pannalama, illa existing ad-ah optimize pannalama nu confusion-ah?"
+280,H32-TECH_B1_C1_v1,H32,TECH,5.5,B1,C1,Reserve,Not built,Oru vaaram nalla leads… adutha vaaram total-ah drop aagudha?
+281,H32-TECH_B1_C2_v1,H32,TECH,5.5,B1,C2,Reserve,Not built,Oru vaaram nalla leads… adutha vaaram total-ah drop aagudha?
+282,H32-TECH_B1_C3_v1,H32,TECH,5.5,B1,C3,Reserve,Not built,Oru vaaram nalla leads… adutha vaaram total-ah drop aagudha?
+283,H32-TECH_B2_C1_v1,H32,TECH,5.5,B2,C1,Reserve,Not built,Oru vaaram nalla leads… adutha vaaram total-ah drop aagudha?
+284,H32-TECH_B2_C2_v1,H32,TECH,5.5,B2,C2,Reserve,Not built,Oru vaaram nalla leads… adutha vaaram total-ah drop aagudha?
+285,H32-TECH_B2_C3_v1,H32,TECH,5.5,B2,C3,Reserve,Not built,Oru vaaram nalla leads… adutha vaaram total-ah drop aagudha?
+286,H32-TECH_B3_C1_v1,H32,TECH,5.5,B3,C1,Reserve,Not built,Oru vaaram nalla leads… adutha vaaram total-ah drop aagudha?
+287,H32-TECH_B3_C2_v1,H32,TECH,5.5,B3,C2,P1,Not built,Oru vaaram nalla leads… adutha vaaram total-ah drop aagudha?
+288,H32-TECH_B3_C3_v1,H32,TECH,5.5,B3,C3,Reserve,Not built,Oru vaaram nalla leads… adutha vaaram total-ah drop aagudha?
+289,H33-NOLEAD_B1_C1_v1,H33,NOLEAD,6,B1,C1,Reserve,Not built,Reach-um views-um irukku… aana enquiries mattum illaya?
+290,H33-NOLEAD_B1_C2_v1,H33,NOLEAD,6,B1,C2,Reserve,Not built,Reach-um views-um irukku… aana enquiries mattum illaya?
+291,H33-NOLEAD_B1_C3_v1,H33,NOLEAD,6,B1,C3,Reserve,Not built,Reach-um views-um irukku… aana enquiries mattum illaya?
+292,H33-NOLEAD_B2_C1_v1,H33,NOLEAD,6,B2,C1,Reserve,Not built,Reach-um views-um irukku… aana enquiries mattum illaya?
+293,H33-NOLEAD_B2_C2_v1,H33,NOLEAD,6,B2,C2,Reserve,Not built,Reach-um views-um irukku… aana enquiries mattum illaya?
+294,H33-NOLEAD_B2_C3_v1,H33,NOLEAD,6,B2,C3,Reserve,Not built,Reach-um views-um irukku… aana enquiries mattum illaya?
+295,H33-NOLEAD_B3_C1_v1,H33,NOLEAD,6,B3,C1,Reserve,Not built,Reach-um views-um irukku… aana enquiries mattum illaya?
+296,H33-NOLEAD_B3_C2_v1,H33,NOLEAD,6,B3,C2,P1,Not built,Reach-um views-um irukku… aana enquiries mattum illaya?
+297,H33-NOLEAD_B3_C3_v1,H33,NOLEAD,6,B3,C3,Reserve,Not built,Reach-um views-um irukku… aana enquiries mattum illaya?
+298,H34-CREA_B1_C1_v1,H34,CREA,5,B1,C1,Reserve,Not built,Same creative-ah maasam maasama run pannitte irukkeengala?
+299,H34-CREA_B1_C2_v1,H34,CREA,5,B1,C2,Reserve,Not built,Same creative-ah maasam maasama run pannitte irukkeengala?
+300,H34-CREA_B1_C3_v1,H34,CREA,5,B1,C3,Reserve,Not built,Same creative-ah maasam maasama run pannitte irukkeengala?
+301,H34-CREA_B2_C1_v1,H34,CREA,5,B2,C1,Reserve,Not built,Same creative-ah maasam maasama run pannitte irukkeengala?
+302,H34-CREA_B2_C2_v1,H34,CREA,5,B2,C2,Reserve,Not built,Same creative-ah maasam maasama run pannitte irukkeengala?
+303,H34-CREA_B2_C3_v1,H34,CREA,5,B2,C3,Reserve,Not built,Same creative-ah maasam maasama run pannitte irukkeengala?
+304,H34-CREA_B3_C1_v1,H34,CREA,5,B3,C1,Reserve,Not built,Same creative-ah maasam maasama run pannitte irukkeengala?
+305,H34-CREA_B3_C2_v1,H34,CREA,5,B3,C2,Reserve,Not built,Same creative-ah maasam maasama run pannitte irukkeengala?
+306,H34-CREA_B3_C3_v1,H34,CREA,5,B3,C3,Reserve,Not built,Same creative-ah maasam maasama run pannitte irukkeengala?
+307,H35-NOLEAD_B1_C1_v1,H35,NOLEAD,6.5,B1,C1,P2/P3 candidate,Not built,Unga competitor-ku enquiries varudhu… aana unga Meta Ads-ku varalaya?
+308,H35-NOLEAD_B1_C2_v1,H35,NOLEAD,6.5,B1,C2,P2/P3 candidate,Not built,Unga competitor-ku enquiries varudhu… aana unga Meta Ads-ku varalaya?
+309,H35-NOLEAD_B1_C3_v1,H35,NOLEAD,6.5,B1,C3,P2/P3 candidate,Not built,Unga competitor-ku enquiries varudhu… aana unga Meta Ads-ku varalaya?
+310,H35-NOLEAD_B2_C1_v1,H35,NOLEAD,6.5,B2,C1,P2/P3 candidate,Not built,Unga competitor-ku enquiries varudhu… aana unga Meta Ads-ku varalaya?
+311,H35-NOLEAD_B2_C2_v1,H35,NOLEAD,6.5,B2,C2,P2/P3 candidate,Not built,Unga competitor-ku enquiries varudhu… aana unga Meta Ads-ku varalaya?
+312,H35-NOLEAD_B2_C3_v1,H35,NOLEAD,6.5,B2,C3,P2/P3 candidate,Not built,Unga competitor-ku enquiries varudhu… aana unga Meta Ads-ku varalaya?
+313,H35-NOLEAD_B3_C1_v1,H35,NOLEAD,6.5,B3,C1,P2/P3 candidate,Not built,Unga competitor-ku enquiries varudhu… aana unga Meta Ads-ku varalaya?
+314,H35-NOLEAD_B3_C2_v1,H35,NOLEAD,6.5,B3,C2,P1,Not built,Unga competitor-ku enquiries varudhu… aana unga Meta Ads-ku varalaya?
+315,H35-NOLEAD_B3_C3_v1,H35,NOLEAD,6.5,B3,C3,P2/P3 candidate,Not built,Unga competitor-ku enquiries varudhu… aana unga Meta Ads-ku varalaya?
+316,H36-CREA_B1_C1_v1,H36,CREA,5,B1,C1,Reserve,Not built,Video ad podreenga… aana audience click pannave maatraangala?
+317,H36-CREA_B1_C2_v1,H36,CREA,5,B1,C2,Reserve,Not built,Video ad podreenga… aana audience click pannave maatraangala?
+318,H36-CREA_B1_C3_v1,H36,CREA,5,B1,C3,Reserve,Not built,Video ad podreenga… aana audience click pannave maatraangala?
+319,H36-CREA_B2_C1_v1,H36,CREA,5,B2,C1,Reserve,Not built,Video ad podreenga… aana audience click pannave maatraangala?
+320,H36-CREA_B2_C2_v1,H36,CREA,5,B2,C2,Reserve,Not built,Video ad podreenga… aana audience click pannave maatraangala?
+321,H36-CREA_B2_C3_v1,H36,CREA,5,B2,C3,Reserve,Not built,Video ad podreenga… aana audience click pannave maatraangala?
+322,H36-CREA_B3_C1_v1,H36,CREA,5,B3,C1,Reserve,Not built,Video ad podreenga… aana audience click pannave maatraangala?
+323,H36-CREA_B3_C2_v1,H36,CREA,5,B3,C2,Reserve,Not built,Video ad podreenga… aana audience click pannave maatraangala?
+324,H36-CREA_B3_C3_v1,H36,CREA,5,B3,C3,Reserve,Not built,Video ad podreenga… aana audience click pannave maatraangala?
+325,H37-QUAL_B1_C1_v1,H37,QUAL,6.5,B1,C1,P2/P3 candidate,Not built,Targeting correct-ah irundhum wrong audience enquiries varudha?
+326,H37-QUAL_B1_C2_v1,H37,QUAL,6.5,B1,C2,P2/P3 candidate,Not built,Targeting correct-ah irundhum wrong audience enquiries varudha?
+327,H37-QUAL_B1_C3_v1,H37,QUAL,6.5,B1,C3,P2/P3 candidate,Not built,Targeting correct-ah irundhum wrong audience enquiries varudha?
+328,H37-QUAL_B2_C1_v1,H37,QUAL,6.5,B2,C1,P2/P3 candidate,Not built,Targeting correct-ah irundhum wrong audience enquiries varudha?
+329,H37-QUAL_B2_C2_v1,H37,QUAL,6.5,B2,C2,P2/P3 candidate,Not built,Targeting correct-ah irundhum wrong audience enquiries varudha?
+330,H37-QUAL_B2_C3_v1,H37,QUAL,6.5,B2,C3,P2/P3 candidate,Not built,Targeting correct-ah irundhum wrong audience enquiries varudha?
+331,H37-QUAL_B3_C1_v1,H37,QUAL,6.5,B3,C1,P2/P3 candidate,Not built,Targeting correct-ah irundhum wrong audience enquiries varudha?
+332,H37-QUAL_B3_C2_v1,H37,QUAL,6.5,B3,C2,P1,Not built,Targeting correct-ah irundhum wrong audience enquiries varudha?
+333,H37-QUAL_B3_C3_v1,H37,QUAL,6.5,B3,C3,P2/P3 candidate,Not built,Targeting correct-ah irundhum wrong audience enquiries varudha?
+334,H38-TECH_B1_C1_v1,H38,TECH,4,B1,C1,Reserve,Not built,"Broad targeting-ah, interest targeting-ah nu innum confusion-ah?"
+335,H38-TECH_B1_C2_v1,H38,TECH,4,B1,C2,Reserve,Not built,"Broad targeting-ah, interest targeting-ah nu innum confusion-ah?"
+336,H38-TECH_B1_C3_v1,H38,TECH,4,B1,C3,Reserve,Not built,"Broad targeting-ah, interest targeting-ah nu innum confusion-ah?"
+337,H38-TECH_B2_C1_v1,H38,TECH,4,B2,C1,Reserve,Not built,"Broad targeting-ah, interest targeting-ah nu innum confusion-ah?"
+338,H38-TECH_B2_C2_v1,H38,TECH,4,B2,C2,Reserve,Not built,"Broad targeting-ah, interest targeting-ah nu innum confusion-ah?"
+339,H38-TECH_B2_C3_v1,H38,TECH,4,B2,C3,Reserve,Not built,"Broad targeting-ah, interest targeting-ah nu innum confusion-ah?"
+340,H38-TECH_B3_C1_v1,H38,TECH,4,B3,C1,Reserve,Not built,"Broad targeting-ah, interest targeting-ah nu innum confusion-ah?"
+341,H38-TECH_B3_C2_v1,H38,TECH,4,B3,C2,Reserve,Not built,"Broad targeting-ah, interest targeting-ah nu innum confusion-ah?"
+342,H38-TECH_B3_C3_v1,H38,TECH,4,B3,C3,Reserve,Not built,"Broad targeting-ah, interest targeting-ah nu innum confusion-ah?"
+343,H39-CREA_B1_C1_v1,H39,CREA,6,B1,C1,Reserve,Not built,Unga ad-ah paakuraanga… aana WhatsApp-la message panna maatraangala?
+344,H39-CREA_B1_C2_v1,H39,CREA,6,B1,C2,Reserve,Not built,Unga ad-ah paakuraanga… aana WhatsApp-la message panna maatraangala?
+345,H39-CREA_B1_C3_v1,H39,CREA,6,B1,C3,Reserve,Not built,Unga ad-ah paakuraanga… aana WhatsApp-la message panna maatraangala?
+346,H39-CREA_B2_C1_v1,H39,CREA,6,B2,C1,Reserve,Not built,Unga ad-ah paakuraanga… aana WhatsApp-la message panna maatraangala?
+347,H39-CREA_B2_C2_v1,H39,CREA,6,B2,C2,Reserve,Not built,Unga ad-ah paakuraanga… aana WhatsApp-la message panna maatraangala?
+348,H39-CREA_B2_C3_v1,H39,CREA,6,B2,C3,Reserve,Not built,Unga ad-ah paakuraanga… aana WhatsApp-la message panna maatraangala?
+349,H39-CREA_B3_C1_v1,H39,CREA,6,B3,C1,Reserve,Not built,Unga ad-ah paakuraanga… aana WhatsApp-la message panna maatraangala?
+350,H39-CREA_B3_C2_v1,H39,CREA,6,B3,C2,P1,Not built,Unga ad-ah paakuraanga… aana WhatsApp-la message panna maatraangala?
+351,H39-CREA_B3_C3_v1,H39,CREA,6,B3,C3,Reserve,Not built,Unga ad-ah paakuraanga… aana WhatsApp-la message panna maatraangala?
+352,H40-NOLEAD_B1_C1_v1,H40,NOLEAD,5.5,B1,C1,Reserve,Not built,Offer kuduthum enquiries varalaya?
+353,H40-NOLEAD_B1_C2_v1,H40,NOLEAD,5.5,B1,C2,Reserve,Not built,Offer kuduthum enquiries varalaya?
+354,H40-NOLEAD_B1_C3_v1,H40,NOLEAD,5.5,B1,C3,Reserve,Not built,Offer kuduthum enquiries varalaya?
+355,H40-NOLEAD_B2_C1_v1,H40,NOLEAD,5.5,B2,C1,Reserve,Not built,Offer kuduthum enquiries varalaya?
+356,H40-NOLEAD_B2_C2_v1,H40,NOLEAD,5.5,B2,C2,Reserve,Not built,Offer kuduthum enquiries varalaya?
+357,H40-NOLEAD_B2_C3_v1,H40,NOLEAD,5.5,B2,C3,Reserve,Not built,Offer kuduthum enquiries varalaya?
+358,H40-NOLEAD_B3_C1_v1,H40,NOLEAD,5.5,B3,C1,Reserve,Not built,Offer kuduthum enquiries varalaya?
+359,H40-NOLEAD_B3_C2_v1,H40,NOLEAD,5.5,B3,C2,P1,Not built,Offer kuduthum enquiries varalaya?
+360,H40-NOLEAD_B3_C3_v1,H40,NOLEAD,5.5,B3,C3,Reserve,Not built,Offer kuduthum enquiries varalaya?
+361,H41-TECH_B1_C1_v1,H41,TECH,4.5,B1,C1,Reserve,Not built,"Daily new creative podanuma, illa existing creative continue pannalama?"
+362,H41-TECH_B1_C2_v1,H41,TECH,4.5,B1,C2,Reserve,Not built,"Daily new creative podanuma, illa existing creative continue pannalama?"
+363,H41-TECH_B1_C3_v1,H41,TECH,4.5,B1,C3,Reserve,Not built,"Daily new creative podanuma, illa existing creative continue pannalama?"
+364,H41-TECH_B2_C1_v1,H41,TECH,4.5,B2,C1,Reserve,Not built,"Daily new creative podanuma, illa existing creative continue pannalama?"
+365,H41-TECH_B2_C2_v1,H41,TECH,4.5,B2,C2,Reserve,Not built,"Daily new creative podanuma, illa existing creative continue pannalama?"
+366,H41-TECH_B2_C3_v1,H41,TECH,4.5,B2,C3,Reserve,Not built,"Daily new creative podanuma, illa existing creative continue pannalama?"
+367,H41-TECH_B3_C1_v1,H41,TECH,4.5,B3,C1,Reserve,Not built,"Daily new creative podanuma, illa existing creative continue pannalama?"
+368,H41-TECH_B3_C2_v1,H41,TECH,4.5,B3,C2,Reserve,Not built,"Daily new creative podanuma, illa existing creative continue pannalama?"
+369,H41-TECH_B3_C3_v1,H41,TECH,4.5,B3,C3,Reserve,Not built,"Daily new creative podanuma, illa existing creative continue pannalama?"
+370,H42-ROI_B1_C1_v1,H42,ROI,7.5,B1,C1,P2/P3 candidate,Not built,WhatsApp Ads-la enquiries kuviyudhu… aana customers yaarunnu track panna mudiyalaya?
+371,H42-ROI_B1_C2_v1,H42,ROI,7.5,B1,C2,P2/P3 candidate,Not built,WhatsApp Ads-la enquiries kuviyudhu… aana customers yaarunnu track panna mudiyalaya?
+372,H42-ROI_B1_C3_v1,H42,ROI,7.5,B1,C3,P2/P3 candidate,Not built,WhatsApp Ads-la enquiries kuviyudhu… aana customers yaarunnu track panna mudiyalaya?
+373,H42-ROI_B2_C1_v1,H42,ROI,7.5,B2,C1,P2/P3 candidate,Not built,WhatsApp Ads-la enquiries kuviyudhu… aana customers yaarunnu track panna mudiyalaya?
+374,H42-ROI_B2_C2_v1,H42,ROI,7.5,B2,C2,P2/P3 candidate,Not built,WhatsApp Ads-la enquiries kuviyudhu… aana customers yaarunnu track panna mudiyalaya?
+375,H42-ROI_B2_C3_v1,H42,ROI,7.5,B2,C3,P2/P3 candidate,Not built,WhatsApp Ads-la enquiries kuviyudhu… aana customers yaarunnu track panna mudiyalaya?
+376,H42-ROI_B3_C1_v1,H42,ROI,7.5,B3,C1,P2/P3 candidate,Not built,WhatsApp Ads-la enquiries kuviyudhu… aana customers yaarunnu track panna mudiyalaya?
+377,H42-ROI_B3_C2_v1,H42,ROI,7.5,B3,C2,P1,Not built,WhatsApp Ads-la enquiries kuviyudhu… aana customers yaarunnu track panna mudiyalaya?
+378,H42-ROI_B3_C3_v1,H42,ROI,7.5,B3,C3,P2/P3 candidate,Not built,WhatsApp Ads-la enquiries kuviyudhu… aana customers yaarunnu track panna mudiyalaya?
+379,H43-QUAL_B1_C1_v1,H43,QUAL,6.5,B1,C1,P2/P3 candidate,Not built,Customer WhatsApp-la 'Hi' nu message pannittu reply pannaama poidraangala?
+380,H43-QUAL_B1_C2_v1,H43,QUAL,6.5,B1,C2,P2/P3 candidate,Not built,Customer WhatsApp-la 'Hi' nu message pannittu reply pannaama poidraangala?
+381,H43-QUAL_B1_C3_v1,H43,QUAL,6.5,B1,C3,P2/P3 candidate,Not built,Customer WhatsApp-la 'Hi' nu message pannittu reply pannaama poidraangala?
+382,H43-QUAL_B2_C1_v1,H43,QUAL,6.5,B2,C1,P2/P3 candidate,Not built,Customer WhatsApp-la 'Hi' nu message pannittu reply pannaama poidraangala?
+383,H43-QUAL_B2_C2_v1,H43,QUAL,6.5,B2,C2,P2/P3 candidate,Not built,Customer WhatsApp-la 'Hi' nu message pannittu reply pannaama poidraangala?
+384,H43-QUAL_B2_C3_v1,H43,QUAL,6.5,B2,C3,P2/P3 candidate,Not built,Customer WhatsApp-la 'Hi' nu message pannittu reply pannaama poidraangala?
+385,H43-QUAL_B3_C1_v1,H43,QUAL,6.5,B3,C1,P2/P3 candidate,Not built,Customer WhatsApp-la 'Hi' nu message pannittu reply pannaama poidraangala?
+386,H43-QUAL_B3_C2_v1,H43,QUAL,6.5,B3,C2,P1,Not built,Customer WhatsApp-la 'Hi' nu message pannittu reply pannaama poidraangala?
+387,H43-QUAL_B3_C3_v1,H43,QUAL,6.5,B3,C3,P2/P3 candidate,Not built,Customer WhatsApp-la 'Hi' nu message pannittu reply pannaama poidraangala?
+388,H44-SALES_B1_C1_v1,H44,SALES,6.5,B1,C1,P2/P3 candidate,Not built,Leads-ku follow-up panna panna sales team-eh tired aagiducha?
+389,H44-SALES_B1_C2_v1,H44,SALES,6.5,B1,C2,P2/P3 candidate,Not built,Leads-ku follow-up panna panna sales team-eh tired aagiducha?
+390,H44-SALES_B1_C3_v1,H44,SALES,6.5,B1,C3,P2/P3 candidate,Not built,Leads-ku follow-up panna panna sales team-eh tired aagiducha?
+391,H44-SALES_B2_C1_v1,H44,SALES,6.5,B2,C1,P2/P3 candidate,Not built,Leads-ku follow-up panna panna sales team-eh tired aagiducha?
+392,H44-SALES_B2_C2_v1,H44,SALES,6.5,B2,C2,P2/P3 candidate,Not built,Leads-ku follow-up panna panna sales team-eh tired aagiducha?
+393,H44-SALES_B2_C3_v1,H44,SALES,6.5,B2,C3,P2/P3 candidate,Not built,Leads-ku follow-up panna panna sales team-eh tired aagiducha?
+394,H44-SALES_B3_C1_v1,H44,SALES,6.5,B3,C1,P2/P3 candidate,Not built,Leads-ku follow-up panna panna sales team-eh tired aagiducha?
+395,H44-SALES_B3_C2_v1,H44,SALES,6.5,B3,C2,P1,Not built,Leads-ku follow-up panna panna sales team-eh tired aagiducha?
+396,H44-SALES_B3_C3_v1,H44,SALES,6.5,B3,C3,P2/P3 candidate,Not built,Leads-ku follow-up panna panna sales team-eh tired aagiducha?
+397,H45-SALES_B1_C1_v1,H45,SALES,7,B1,C1,P2/P3 candidate,Not built,Yesterday vandha lead-ku innaikku follow-up pannoma nu theriyalaya?
+398,H45-SALES_B1_C2_v1,H45,SALES,7,B1,C2,P2/P3 candidate,Not built,Yesterday vandha lead-ku innaikku follow-up pannoma nu theriyalaya?
+399,H45-SALES_B1_C3_v1,H45,SALES,7,B1,C3,P2/P3 candidate,Not built,Yesterday vandha lead-ku innaikku follow-up pannoma nu theriyalaya?
+400,H45-SALES_B2_C1_v1,H45,SALES,7,B2,C1,P2/P3 candidate,Not built,Yesterday vandha lead-ku innaikku follow-up pannoma nu theriyalaya?
+401,H45-SALES_B2_C2_v1,H45,SALES,7,B2,C2,P2/P3 candidate,Not built,Yesterday vandha lead-ku innaikku follow-up pannoma nu theriyalaya?
+402,H45-SALES_B2_C3_v1,H45,SALES,7,B2,C3,P2/P3 candidate,Not built,Yesterday vandha lead-ku innaikku follow-up pannoma nu theriyalaya?
+403,H45-SALES_B3_C1_v1,H45,SALES,7,B3,C1,P2/P3 candidate,Not built,Yesterday vandha lead-ku innaikku follow-up pannoma nu theriyalaya?
+404,H45-SALES_B3_C2_v1,H45,SALES,7,B3,C2,P1,Not built,Yesterday vandha lead-ku innaikku follow-up pannoma nu theriyalaya?
+405,H45-SALES_B3_C3_v1,H45,SALES,7,B3,C3,P2/P3 candidate,Not built,Yesterday vandha lead-ku innaikku follow-up pannoma nu theriyalaya?
+406,H46-ROI_B1_C1_v1,H46,ROI,6,B1,C1,Reserve,Not built,Same customer rendu moonu ads-la irundhu enquiry panraangala? Identify panna mudiyalaya?
+407,H46-ROI_B1_C2_v1,H46,ROI,6,B1,C2,Reserve,Not built,Same customer rendu moonu ads-la irundhu enquiry panraangala? Identify panna mudiyalaya?
+408,H46-ROI_B1_C3_v1,H46,ROI,6,B1,C3,Reserve,Not built,Same customer rendu moonu ads-la irundhu enquiry panraangala? Identify panna mudiyalaya?
+409,H46-ROI_B2_C1_v1,H46,ROI,6,B2,C1,Reserve,Not built,Same customer rendu moonu ads-la irundhu enquiry panraangala? Identify panna mudiyalaya?
+410,H46-ROI_B2_C2_v1,H46,ROI,6,B2,C2,Reserve,Not built,Same customer rendu moonu ads-la irundhu enquiry panraangala? Identify panna mudiyalaya?
+411,H46-ROI_B2_C3_v1,H46,ROI,6,B2,C3,Reserve,Not built,Same customer rendu moonu ads-la irundhu enquiry panraangala? Identify panna mudiyalaya?
+412,H46-ROI_B3_C1_v1,H46,ROI,6,B3,C1,Reserve,Not built,Same customer rendu moonu ads-la irundhu enquiry panraangala? Identify panna mudiyalaya?
+413,H46-ROI_B3_C2_v1,H46,ROI,6,B3,C2,P1,Not built,Same customer rendu moonu ads-la irundhu enquiry panraangala? Identify panna mudiyalaya?
+414,H46-ROI_B3_C3_v1,H46,ROI,6,B3,C3,Reserve,Not built,Same customer rendu moonu ads-la irundhu enquiry panraangala? Identify panna mudiyalaya?
+415,H47-ROI_B1_C1_v1,H47,ROI,8,B1,C1,P2/P3 candidate,Not built,100 leads vandhuchu… adhula evlo sales aachunu theriyalaya?
+416,H47-ROI_B1_C2_v1,H47,ROI,8,B1,C2,P2/P3 candidate,Not built,100 leads vandhuchu… adhula evlo sales aachunu theriyalaya?
+417,H47-ROI_B1_C3_v1,H47,ROI,8,B1,C3,P2/P3 candidate,Not built,100 leads vandhuchu… adhula evlo sales aachunu theriyalaya?
+418,H47-ROI_B2_C1_v1,H47,ROI,8,B2,C1,P2/P3 candidate,Not built,100 leads vandhuchu… adhula evlo sales aachunu theriyalaya?
+419,H47-ROI_B2_C2_v1,H47,ROI,8,B2,C2,P2/P3 candidate,Not built,100 leads vandhuchu… adhula evlo sales aachunu theriyalaya?
+420,H47-ROI_B2_C3_v1,H47,ROI,8,B2,C3,P2/P3 candidate,Not built,100 leads vandhuchu… adhula evlo sales aachunu theriyalaya?
+421,H47-ROI_B3_C1_v1,H47,ROI,8,B3,C1,P2/P3 candidate,Not built,100 leads vandhuchu… adhula evlo sales aachunu theriyalaya?
+422,H47-ROI_B3_C2_v1,H47,ROI,8,B3,C2,P1,Not built,100 leads vandhuchu… adhula evlo sales aachunu theriyalaya?
+423,H47-ROI_B3_C3_v1,H47,ROI,8,B3,C3,P2/P3 candidate,Not built,100 leads vandhuchu… adhula evlo sales aachunu theriyalaya?
+424,H48-ROI_B1_C1_v1,H48,ROI,8,B1,C1,P2/P3 candidate,Not built,Lead generation nalla irukku… aana business revenue increase aagalaya?
+425,H48-ROI_B1_C2_v1,H48,ROI,8,B1,C2,P2/P3 candidate,Not built,Lead generation nalla irukku… aana business revenue increase aagalaya?
+426,H48-ROI_B1_C3_v1,H48,ROI,8,B1,C3,P2/P3 candidate,Not built,Lead generation nalla irukku… aana business revenue increase aagalaya?
+427,H48-ROI_B2_C1_v1,H48,ROI,8,B2,C1,P2/P3 candidate,Not built,Lead generation nalla irukku… aana business revenue increase aagalaya?
+428,H48-ROI_B2_C2_v1,H48,ROI,8,B2,C2,P2/P3 candidate,Not built,Lead generation nalla irukku… aana business revenue increase aagalaya?
+429,H48-ROI_B2_C3_v1,H48,ROI,8,B2,C3,P2/P3 candidate,Not built,Lead generation nalla irukku… aana business revenue increase aagalaya?
+430,H48-ROI_B3_C1_v1,H48,ROI,8,B3,C1,P2/P3 candidate,Not built,Lead generation nalla irukku… aana business revenue increase aagalaya?
+431,H48-ROI_B3_C2_v1,H48,ROI,8,B3,C2,P1,Not built,Lead generation nalla irukku… aana business revenue increase aagalaya?
+432,H48-ROI_B3_C3_v1,H48,ROI,8,B3,C3,P2/P3 candidate,Not built,Lead generation nalla irukku… aana business revenue increase aagalaya?
+433,H49-SALES_B1_C1_v1,H49,SALES,7.5,B1,C1,P2/P3 candidate,Not built,"Unga sales team leads-ah follow-up panraangala, illa summa close panraangala?"
+434,H49-SALES_B1_C2_v1,H49,SALES,7.5,B1,C2,P2/P3 candidate,Not built,"Unga sales team leads-ah follow-up panraangala, illa summa close panraangala?"
+435,H49-SALES_B1_C3_v1,H49,SALES,7.5,B1,C3,P2/P3 candidate,Not built,"Unga sales team leads-ah follow-up panraangala, illa summa close panraangala?"
+436,H49-SALES_B2_C1_v1,H49,SALES,7.5,B2,C1,P2/P3 candidate,Not built,"Unga sales team leads-ah follow-up panraangala, illa summa close panraangala?"
+437,H49-SALES_B2_C2_v1,H49,SALES,7.5,B2,C2,P2/P3 candidate,Not built,"Unga sales team leads-ah follow-up panraangala, illa summa close panraangala?"
+438,H49-SALES_B2_C3_v1,H49,SALES,7.5,B2,C3,P2/P3 candidate,Not built,"Unga sales team leads-ah follow-up panraangala, illa summa close panraangala?"
+439,H49-SALES_B3_C1_v1,H49,SALES,7.5,B3,C1,P2/P3 candidate,Not built,"Unga sales team leads-ah follow-up panraangala, illa summa close panraangala?"
+440,H49-SALES_B3_C2_v1,H49,SALES,7.5,B3,C2,P1,Not built,"Unga sales team leads-ah follow-up panraangala, illa summa close panraangala?"
+441,H49-SALES_B3_C3_v1,H49,SALES,7.5,B3,C3,P2/P3 candidate,Not built,"Unga sales team leads-ah follow-up panraangala, illa summa close panraangala?"
+442,H50-ROI_B1_C1_v1,H50,ROI,8.5,B1,C1,P2/P3 candidate,Not built,"Meta Ads-la spend panra ovvoru ₹1,000-kum evlo revenue varudhunu theriyuma?"
+443,H50-ROI_B1_C2_v1,H50,ROI,8.5,B1,C2,P2/P3 candidate,Not built,"Meta Ads-la spend panra ovvoru ₹1,000-kum evlo revenue varudhunu theriyuma?"
+444,H50-ROI_B1_C3_v1,H50,ROI,8.5,B1,C3,P2/P3 candidate,Not built,"Meta Ads-la spend panra ovvoru ₹1,000-kum evlo revenue varudhunu theriyuma?"
+445,H50-ROI_B2_C1_v1,H50,ROI,8.5,B2,C1,P2/P3 candidate,Not built,"Meta Ads-la spend panra ovvoru ₹1,000-kum evlo revenue varudhunu theriyuma?"
+446,H50-ROI_B2_C2_v1,H50,ROI,8.5,B2,C2,P2/P3 candidate,Not built,"Meta Ads-la spend panra ovvoru ₹1,000-kum evlo revenue varudhunu theriyuma?"
+447,H50-ROI_B2_C3_v1,H50,ROI,8.5,B2,C3,P2/P3 candidate,Not built,"Meta Ads-la spend panra ovvoru ₹1,000-kum evlo revenue varudhunu theriyuma?"
+448,H50-ROI_B3_C1_v1,H50,ROI,8.5,B3,C1,P2/P3 candidate,Not built,"Meta Ads-la spend panra ovvoru ₹1,000-kum evlo revenue varudhunu theriyuma?"
+449,H50-ROI_B3_C2_v1,H50,ROI,8.5,B3,C2,P1,Not built,"Meta Ads-la spend panra ovvoru ₹1,000-kum evlo revenue varudhunu theriyuma?"
+450,H50-ROI_B3_C3_v1,H50,ROI,8.5,B3,C3,P2/P3 candidate,Not built,"Meta Ads-la spend panra ovvoru ₹1,000-kum evlo revenue varudhunu theriyuma?"

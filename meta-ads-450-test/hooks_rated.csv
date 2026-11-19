@@ -1,0 +1,51 @@
+﻿Hook,Theme,Score_10,Tier,Phase1,Text
+H01,QUAL,9,A,YES,"Kuzhandhai theriyama click pannittaanga, sorry! — unga Meta Ads leads-um idha adikkadi solraangala?"
+H02,SALES,9,A,YES,Marketing team 'Nalla leads kudukkurom'… Sales team 'Leads qualified illa'… Idhula yaar solradhu unmai?
+H03,CPL,7,B,YES,Yesterday ₹100 CPL… today ₹400 CPL! Enna nadakkudhune puriyalaya?
+H04,QUAL,8,A,YES,Meta leads-ku call pannumbodhu 'Naan enquiry-eh pannalaye!' nu solraangala?
+H05,ROI,9,A,YES,"Meta Ads-la ₹50,000 spend panniyum actual sales evlo vandhuchunu theriyalaya?"
+H06,QUAL,7,B,YES,Unga Meta Ads leads ellarum price mattum kettuttu disappear aagidraangala?
+H07,ROI,7,B,YES,"Endha ad work aagudhu, endha ad budget waste pannudhu nu theriyalaya?"
+H08,CONV,8,A,YES,Neraya leads varudhu… aana conversion romba kammiya irukka?
+H09,QUAL,8.5,A,YES,Unga WhatsApp-la 100 enquiries irukku… adhula evlo qualified leads-nu theriyuma?
+H10,DIAG,7,B,YES,"Unga problem targeting-la irukka, creative-la irukka, illa sales follow-up-la irukka?"
+H11,CPL,7.5,B,YES,CPL yerikitte pogudha? Aana lead quality improve aagalaya?
+H12,QUAL,7,B,YES,Meta Ads-la junk leads mattum dhaan varudha?
+H13,TECH,6,C,YES,Wrong location-la irundhu neraya leads varudha?
+H14,NOLEAD,5,C,PARK (rewrite),"Daily ₹1,000 spend panniyum leads varalaya?"
+H15,NOLEAD,5,C,PARK (rewrite),"Maasam ₹30,000 spend panniyum leads varalaya?"
+H16,SALES,7.5,B,YES,Neraya enquiries varudhu… aana correct-ah follow-up panna mudiyalaya?
+H17,SALES,8,A,YES,Leads vandhukitte irukku… oru conversion-um illa! Sales team enna panraangane theriyalaya?
+H18,QUAL,8,A,YES,10 leads-la 8 per phone edukka maatraangala?
+H19,QUAL,6.5,B,YES,Lead vandha udane call pannalum response illaya?
+H20,QUAL,8,A,YES,'Just details therinjukka enquiry pannen' nu solra leads dhaan adhigama varudha?
+H21,QUAL,7,B,YES,Leads varudhu… aana vaangura intention irukkura customers varalaya?
+H22,QUAL,6.5,B,YES,Unga service-ku sambandhame illaadha enquiries varudha?
+H23,CONV,8,A,YES,Cheap leads varudhu… aana oru customer-kooda convert aagalaya?
+H24,QUAL,7,B,YES,"'Ippo vendaam, appuram paakalam' nu solra leads dhaan adhigama irukka?"
+H25,QUAL,7.5,B,YES,Unga Meta Ads-la students-um job seekers-um dhaan enquiry panraangala?
+H26,QUAL,7,B,YES,Lead form fill panraanga… aana call pannumbodhu wrong number-ah irukka?
+H27,NOLEAD,5.5,C,YES,Budget increase panniyum leads increase aagalaya?
+H28,TECH,6,C,YES,Nalla perform aana ad sudden-ah leads kudukkuradha stop panniducha?
+H29,TECH,4,C,PARK (rewrite),Budget spend aagudhu… aana enquiry notification varave illaya?
+H30,TECH,4,C,PARK (rewrite),Ad duplicate pannadhukku appuram performance drop aayiducha?
+H31,TECH,4.5,C,PARK (rewrite),"Daily budget increase pannalama, illa existing ad-ah optimize pannalama nu confusion-ah?"
+H32,TECH,5.5,C,YES,Oru vaaram nalla leads… adutha vaaram total-ah drop aagudha?
+H33,NOLEAD,6,C,YES,Reach-um views-um irukku… aana enquiries mattum illaya?
+H34,CREA,5,C,PARK (rewrite),Same creative-ah maasam maasama run pannitte irukkeengala?
+H35,NOLEAD,6.5,B,YES,Unga competitor-ku enquiries varudhu… aana unga Meta Ads-ku varalaya?
+H36,CREA,5,C,PARK (rewrite),Video ad podreenga… aana audience click pannave maatraangala?
+H37,QUAL,6.5,B,YES,Targeting correct-ah irundhum wrong audience enquiries varudha?
+H38,TECH,4,C,PARK (rewrite),"Broad targeting-ah, interest targeting-ah nu innum confusion-ah?"
+H39,CREA,6,C,YES,Unga ad-ah paakuraanga… aana WhatsApp-la message panna maatraangala?
+H40,NOLEAD,5.5,C,YES,Offer kuduthum enquiries varalaya?
+H41,TECH,4.5,C,PARK (rewrite),"Daily new creative podanuma, illa existing creative continue pannalama?"
+H42,ROI,7.5,B,YES,WhatsApp Ads-la enquiries kuviyudhu… aana customers yaarunnu track panna mudiyalaya?
+H43,QUAL,6.5,B,YES,Customer WhatsApp-la 'Hi' nu message pannittu reply pannaama poidraangala?
+H44,SALES,6.5,B,YES,Leads-ku follow-up panna panna sales team-eh tired aagiducha?
+H45,SALES,7,B,YES,Yesterday vandha lead-ku innaikku follow-up pannoma nu theriyalaya?
+H46,ROI,6,C,YES,Same customer rendu moonu ads-la irundhu enquiry panraangala? Identify panna mudiyalaya?
+H47,ROI,8,A,YES,100 leads vandhuchu… adhula evlo sales aachunu theriyalaya?
+H48,ROI,8,A,YES,Lead generation nalla irukku… aana business revenue increase aagalaya?
+H49,SALES,7.5,B,YES,"Unga sales team leads-ah follow-up panraangala, illa summa close panraangala?"
+H50,ROI,8.5,A,YES,"Meta Ads-la spend panra ovvoru ₹1,000-kum evlo revenue varudhunu theriyuma?"
